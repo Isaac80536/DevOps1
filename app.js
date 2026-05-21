@@ -1,2 +1,1 @@
-console.log("Hola mundo");
-console.log("Isaac es el mas mejor")
+console.log(Hola mundo);
